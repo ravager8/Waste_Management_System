@@ -1,4 +1,4 @@
-Deploy Link :- https://real-erin-bracelet.cyclic.cloud/
+Deploy Link :- https://waste-management-system-507g.onrender.com/
 
 # Waste Management App
 
