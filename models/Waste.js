@@ -5,7 +5,7 @@ const WasteSchema = new mongoose.Schema(
         name: { type: String, required: true },
         // file: { type: Number, required: true },
         contact: { type: String, required: true },
-        email: { type: String},
+        email: { type: String, required: true},
         type: { type: String, required: true },
         quantity: { type: Number, required: true },
         address: { type: String , required: true },
